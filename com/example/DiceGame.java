@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Change me.
+ * Dice Guessing Game.
  *
  * @author Kevin Csiffary
  * @version 1.0
